@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/drawable/bg_gradient_black.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/drawable/bg_gradient_button.xml" value="0.1" />
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/drawable/bg_gradient_button_black.xml" value="0.1" />
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/drawable/bg_rounded_blacky.xml" value="0.20923076923076922" />
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/drawable/bg_rounded_gradient_tosca.xml" value="0.12037037037037036" />
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/drawable/bg_rounded_white_stroke.xml" value="0.1" />
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/drawable/bg_rounded_whitegray.xml" value="0.1" />
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/drawable/ic_bi_clock_history.xml" value="0.1" />
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/drawable/ic_group_18.xml" value="0.1" />
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/drawable/ic_ractangle_main.xml" value="0.19814814814814816" />
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/drawable/ic_repeating.xml" value="0.1" />
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/drawable/switch_thumb.xml" value="0.1" />
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/drawable/switch_track.xml" value="0.1" />
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/layout/activity_repeating_alarm.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/layout/one_time_alarm_activity.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/layout/your_alarm.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
