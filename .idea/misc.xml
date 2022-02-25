@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Project_10_RPL/alarmpp/app/src/main/res/layout/activity_main.xml" value="0.18854166666666666" />
+        <entry key="..\:/Project_10_RPL/alarmpp/app/src/main/res/layout/activity_repeating_alarm.xml" value="0.18854166666666666" />
+        <entry key="..\:/Project_10_RPL/alarmpp/app/src/main/res/layout/one_time_alarm_activity.xml" value="0.18854166666666666" />
+        <entry key="..\:/Project_10_RPL/alarmpp/app/src/main/res/layout/your_alarm.xml" value="0.18854166666666666" />
         <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/drawable/bg_gradient_black.xml" value="0.21614583333333334" />
         <entry key="..\:/Users/Salsabila/AndroidStudioProjects2/alarmapp/app/src/main/res/drawable/bg_gradient_button.xml" value="0.1" />

@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+1. Tolong parent constraint layout yang paling atas diganti biar bisa di Scroll ya
+2. Tolong string untuk text nya di Extract Resource (supaya clean code)
+3. Constraint layout untuk bagian cl_one_time dan cl_repeating diperbaiki
+    agar tidak berdempet ketika di running
+-->
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
